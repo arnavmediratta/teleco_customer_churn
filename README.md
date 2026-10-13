@@ -140,5 +140,5 @@ Class imbalance: Used ROC-AUC and F1 instead of accuracy as primary metrics.
 Production-minded: Separated training code from inference code, saved artifacts with joblib.
 
 👤 Author
-Anshuman
+Arnav
 GitHub
